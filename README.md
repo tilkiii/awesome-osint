@@ -1645,7 +1645,9 @@ algorithms, knowledgebase and AI technology.
 * [The Harvester](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 * [Unfurl](https://dfir.blog/unfurl/) - Unfurl analyzes and breaks down URLs into useful forensic components for digital investigation.
 * [Waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all URLs known by the Wayback Machine for a domain.
+* [who??](https://github.com/tilkiii/the-project-who) - Evidence-grounded cognitive digital twin & behavioral OSINT framework for reconstructing decision boundaries and psychological profiles from open-source intelligence.
 * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users urls and other data effortlessly
+
 
 
 ## [↑](#-table-of-contents) Threat Intelligence
